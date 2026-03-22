@@ -31,11 +31,11 @@ A professional automation solution built with Excel and VBA to manage the full l
 ### **Worksheet Structure**
 | Sheet | Purpose |
 | :--- | :--- |
-| **vente** | [cite_start]Transaction input and sales log.  |
-| **stock** | [cite_start]Master inventory with visual health alerts.  |
-| **client** | [cite_start]Customer database and document links.  |
-| **details** | [cite_start]Transaction history for stock movements.  |
-| **facture** | [cite_start]Automated invoice template.  |
+| **vente** | Transaction input and sales log.  |
+| **stock** | Master inventory with visual health alerts.  |
+| **client** | Customer database and document links.  |
+| **details** | Transaction history for stock movements.  |
+| **facture** | Automated invoice template.  |
 
 ### **VBA Module Breakdown**
 * **Module 1**: `AddToTable` - Appends sales data to the structured table. 
